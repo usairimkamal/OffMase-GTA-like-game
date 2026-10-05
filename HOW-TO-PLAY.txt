@@ -1,0 +1,22 @@
+========================================
+ HOW TO PLAY (EDGE / CHROME / ANY)
+========================================
+
+Models are now EMBEDDED (base64).
+No localhost. No server. No START-GAME.bat needed.
+
+1. Extract the full zip folder
+2. Open the folder mini-gta-3d-pack
+3. Double-click mini-gta-3d.html
+4. Play
+
+Keep these files in the SAME folder:
+  - mini-gta-3d.html
+  - three.min.js
+  - GLTFLoader.js
+  - models-data.js   (this is the big one - all 3D models)
+  - caricon_phonen1.png
+  - textures/ folder
+
+That is all.
+========================================
